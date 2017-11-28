@@ -1,5 +1,13 @@
-## Pablo Fraile Alonso Personal Page
+### Pablo Fraile Alonso Personal Page
 
-## pablito2020.github.io
+# Language:
+* HTML
+* Java Script
 
-## Work in progress...
+## Status:
+* In progress
+
+## Credits:
+* Bootstrap Material Design project by:
+  https://github.com/FezVrasta
+
